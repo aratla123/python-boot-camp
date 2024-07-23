@@ -1,0 +1,12 @@
+n=int(input())
+m=int(input())
+c=m+n
+print(c)
+d=m-n
+print(d)
+e=m/n
+print(e)
+f=m%n
+print(f)
+print(m**n)
+print(n//m)
